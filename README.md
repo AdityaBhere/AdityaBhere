@@ -1,16 +1,86 @@
-## Hi there 👋
+# Hi, I'm Aditya Bhere 👋
 
-<!--
-**AdityaBhere/AdityaBhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 First-Year B.Tech Computer Science Student at NMIMS (MPSTME)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about Software Development, Problem Solving, and Building Projects
+
+🐍 Currently completing Angela Yu's 100 Days of Python Bootcamp
+
+📚 Learning Data Structures & Algorithms and Web Development
+
+🚀 Interested in AI, Automation, and Full-Stack Development
+
+---
+
+## Current Focus
+
+- Completing 100 Days of Python
+- Building Python Projects
+- Learning Git & GitHub
+- Preparing for DSA
+- Exploring Web Development
+
+---
+
+## Tech Stack
+
+### Languages
+- Python
+- Java
+
+### Tools & Technologies
+- Git
+- GitHub
+- Tkinter
+- Pandas
+- REST APIs
+- Object-Oriented Programming (OOP)
+
+---
+
+## Featured Repositories
+
+### 📌 100 Days of Python
+Projects and exercises from Angela Yu's Python Bootcamp.
+
+Topics covered:
+- Python Fundamentals
+- OOP
+- APIs
+- Automation
+- Tkinter GUI Development
+- Data Processing
+
+---
+
+## Current Progress
+
+```text
+100 Days of Python  ████████░░  41/100
+DSA                 ███░░░░░░░  Learning
+Web Development     ██░░░░░░░░  Starting
+```
+
+---
+
+## Goals for 2026
+
+- Complete 100 Days of Python
+- Build a strong GitHub portfolio
+- Learn DSA thoroughly
+- Develop Full-Stack Web Applications
+- Participate in Hackathons
+- Contribute to Open Source
+
+---
+
+## Connect With Me
+
+- GitHub: https://github.com/AdityaBhere
+- LinkedIn: https://linkedin.com/in/aditya-bhere
+
+---
+
+⭐ Always learning, building, and improving.
