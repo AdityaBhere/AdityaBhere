@@ -55,16 +55,6 @@ Topics covered:
 
 ---
 
-## Current Progress
-
-```text
-100 Days of Python  █████░░░░░  41/100
-DSA                 ███░░░░░░░  Learning
-Web Development     ██░░░░░░░░  Starting
-```
-
----
-
 ## Goals for 2026
 
 - Complete 100 Days of Python
